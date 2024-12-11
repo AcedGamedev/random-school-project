@@ -1,8 +1,12 @@
 using System;
 
-public class Class1
+namespace schoolproj
 {
-    static void class1{
-        Console.Print("Hello World!");
+    public class Class1
+    {
+        static void class1
+        {
+            Console.Print("Hello World!");
+        }
     }
 }
